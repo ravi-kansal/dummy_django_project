@@ -1,1 +1,1 @@
-# dummy_django_jec
+# dummy_django_jegg
